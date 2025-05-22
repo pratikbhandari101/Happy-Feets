@@ -113,7 +113,7 @@ src/
 │   ├── resources/
 │   │   ├── css/
 │   │   ├── js/
-│   │   └── db.properties
+│   │   └── sql
 │   └── webapp/
 │       ├── WEB-INF/
 │       │   ├── includes/

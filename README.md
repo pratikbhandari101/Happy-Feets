@@ -124,27 +124,15 @@ src/
 
 ---
 
-## 🤝 Contributing
+## 🤝 Team Members Contribution
 
-1. Fork the repo
-2. Create a feature branch:
+1. Pratik Bhandari
+2. Siddhartha Sharma
+3. Alisa Chalaune
+4. Dhiraj Goit
+5. Jenisha Malla
 
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. Commit your changes:
 
-   ```bash
-   git commit -m "Add AmazingFeature"
-   ```
-4. Push your branch:
-
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. Open a Pull Request 🚀
-
----
 
 ## 📄 License
 
